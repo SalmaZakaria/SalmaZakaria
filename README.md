@@ -2,7 +2,7 @@
 <h1 align = center > Hello, I am Salma 👋 </h1>
 
 <p align = center>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-zakaria-4a9bbb177/)
+     [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-zakaria-4a9bbb177/)
   </p>
 
 <p>
@@ -11,9 +11,6 @@
   - 🎓 &nbsp; Computer Science undergraduate
   - 🌱 &nbsp; I’m looking to collaborate on projects that develops my technical skills in Software deveopment </br>
   - 🔭 &nbsp; I am focusing now on Learning Data structures and Algorithms
-- 💬 Concepts: Data Structures, Algorithms, OOP and Operating Systems.</br>
-- 📫 How to reach me :</br>
--    <a href="https://www.linkedin.com/in/salma-zakaria-4a9bbb177/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
