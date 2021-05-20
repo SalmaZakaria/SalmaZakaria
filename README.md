@@ -1,7 +1,9 @@
 
-<h1 align = center > Hello, I am Salma </h1>
+<h1 align = center > Hello, I am Salma 👋 </h1>
 
+<p align = center>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-zakaria-4a9bbb177/)
+  </p>
 
 <p>
   <h3> 👨🏻‍💻 About Me </h3>
