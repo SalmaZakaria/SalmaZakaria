@@ -1,10 +1,31 @@
 
-<h1 align = center > I am Salma </h1>
-<h4 align = center> Undergraduate Student, I am studying Web development using ASP.NET Framework, besides developing my problem solving skills </h4>
+<h1 align = center > Hello, I am Salma </h1>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-zakaria-4a9bbb177/)
+
 <p>
-- 🌱 I’m looking to collaborate on projects that develops my technical skills in Software deveopment </br>
-- 🔭 I Can work with C++, C#, Python and Java. </br>
+  <h3> 👨🏻‍💻 About Me </h3>
+  - 🔭 &nbsp; I’m currently learning Web Application Development
+  - 🎓 &nbsp; Computer Science undergraduate
+  - 🌱 &nbsp; I’m looking to collaborate on projects that develops my technical skills in Software deveopment </br>
+  - 🔭 &nbsp; I am focusing now on Learning Data structures and Algorithms
 - 💬 Concepts: Data Structures, Algorithms, OOP and Operating Systems.</br>
 - 📫 How to reach me :</br>
 -    <a href="https://www.linkedin.com/in/salma-zakaria-4a9bbb177/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
+
+
+**Languages and Tools:**
+<br/>
+
+ <code><img width="8%"  src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+ <code><img width="8%"  src="https://cdn.svgporn.com/logos/c.svg"></code>
+ <code><img width="8%"  src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
+ <code><img width="8%"  src="https://cdn.worldvectorlogo.com/logos/python.svg"></code>
+ <br />
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+ <br/>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  
