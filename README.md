@@ -1,16 +1,16 @@
 
 <h1 align = center > Hello, I am Salma 👋 </h1>
 
-<p align = center>
+
      [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-zakaria-4a9bbb177/)
-  </p>
+  
 
 <p>
   <h3> 👨🏻‍💻 About Me </h3>
-  - 🔭 &nbsp; I’m currently learning Web Application Development
-  - 🎓 &nbsp; Computer Science undergraduate
+  - 🔭 &nbsp; I’m currently learning Web Application Development</br>
+  - 🎓 &nbsp; Computer Science undergraduate</br>
   - 🌱 &nbsp; I’m looking to collaborate on projects that develops my technical skills in Software deveopment </br>
-  - 🔭 &nbsp; I am focusing now on Learning Data structures and Algorithms
+  - 🔭 &nbsp; I am focusing now on Learning Data structures and Algorithms</br>
 </p>
 
 
