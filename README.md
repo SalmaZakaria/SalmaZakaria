@@ -2,7 +2,9 @@
 <h1 align = center > Hello, I am Salma 👋 </h1>
 
 
-     [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-zakaria-4a9bbb177/)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/salma-zakaria-4a9bbb177/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <p/>
   
 
 <p>
