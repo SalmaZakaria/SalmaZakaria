@@ -9,7 +9,7 @@
 
 <p>
   <h3> 👨🏻‍💻 About Me </h3>
-  - 🔭 &nbsp; I’m currently learning Web Application Development</br>
+  - 🔭 &nbsp; I’m currently learning Data Science and Computer Vision </br>
   - 🎓 &nbsp; Computer Science undergraduate</br>
   - 🌱 &nbsp; I’m looking to collaborate on projects that develops my technical skills in Software deveopment </br>
   - 🔭 &nbsp; I am focusing now on Learning Data structures and Algorithms</br>
