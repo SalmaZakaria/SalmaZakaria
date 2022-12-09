@@ -47,4 +47,4 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmaZakaria&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SalmaZakaria" /></div>
+<div align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmaZakaria&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SalmaZakaria" /></div>
