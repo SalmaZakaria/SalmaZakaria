@@ -14,7 +14,7 @@
   - &nbsp; I’m looking to find a job in Machine Learning Field to develop my skills and helps me deep gain hands on experience. </br>
   - &nbsp; I am focusing now on NLP but I have worked on Some Computer Vision Tasks too.</br>
   - &nbsp; How to reach me ?</br>
-     <mailto:salma.zakaria99@hotmail.com>
+     <mailto: salma.zakaria99@hotmail.com>
 </p>
 
 # My Experiences
