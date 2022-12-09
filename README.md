@@ -9,10 +9,10 @@
 
 <p>
   <h3> 👨🏻‍💻 About Me </h3>
-  -  &nbsp; I’m currently learning Data Science and Machine Learning </br>
-  - 🎓 &nbsp; Computer Science Fresh Graduate</br>
-  - 🌱 &nbsp; I’m looking to collaborate on projects that develops my technical skills in Software deveopment </br>
-  - 🔭 &nbsp; I am focusing now on Learning Data structures and Algorithms</br>
+  - &nbsp; Computer Science Fresh Graduate </br>
+  - &nbsp; I’m currently learning Data Science and Machine Learning in NTI.</br>
+  - &nbsp; I’m looking to find a job in Machine Learning Field to develop my skills and helps me deep gain hands on experience. </br>
+  - &nbsp; I am focusing now on NLP but I have worked on Some Computer Vision Tasks too.</br>
 </p>
 
 
