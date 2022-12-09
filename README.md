@@ -27,7 +27,8 @@
 ###### Project Name : Mobile Application for extracting Car number from Arabic car plates.
 * Built the Mobile Application using Flutter.
 
-**Languages and Tools:**
+
+# Languages and Tools:
 <br/>
 
  <code><img width="8%"  src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
