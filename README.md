@@ -36,15 +36,16 @@
  <code><img width="8%"  src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
  <code><img width="8%"  src="https://cdn.svgporn.com/logos/c.svg"></code>
  <code><img width="8%"  src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <br />
+ <div align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmaZakaria&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SalmaZakaria" /></div>
+ 
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
- <br/>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  
+ <br/>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+ 
 
-<div align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmaZakaria&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SalmaZakaria" /></div>
