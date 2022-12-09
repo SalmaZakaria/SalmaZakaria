@@ -27,6 +27,8 @@
 ###### Project Name : Mobile Application for extracting Car number from Arabic car plates.
 * Built the Mobile Application using Flutter.
 
+#  My Blogs 📝
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow Chapters Summarization](https://medium.com/me/stories/public)
 
 # Languages and Tools:
 <br/>
