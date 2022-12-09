@@ -13,8 +13,19 @@
   - &nbsp; I’m currently learning Data Science and Machine Learning in NTI.</br>
   - &nbsp; I’m looking to find a job in Machine Learning Field to develop my skills and helps me deep gain hands on experience. </br>
   - &nbsp; I am focusing now on NLP but I have worked on Some Computer Vision Tasks too.</br>
+  - &nbsp; How to reach me ?</br>
+  - &nbsp; salma.zakaria99@hotmail.com </br>
 </p>
 
+# My Experiences
+## Junior ML Engineer at omdena :
+###### Project Name : Estimation CO2 in SuperMarket products in Germany.
+* Worked on Preprocessing Data in the CSV Files.
+* Predicting the CO2 amount estimated from each product.
+
+## AI Intern at IBM :
+###### Project Name : Mobile Application for extracting Car number from Arabic car plates.
+* Built the Mobile Application using Flutter.
 
 **Languages and Tools:**
 <br/>
